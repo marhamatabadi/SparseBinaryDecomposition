@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseBinaryDecomposition", "SparseBinaryDecomposition\SparseBinaryDecomposition.csproj", "{D065840C-D68A-4CBC-B473-93EE0F3E7B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseBinaryDecomposition.Test", "SparseBinaryDecomposition.Test\SparseBinaryDecomposition.Test.csproj", "{80551C9B-CA35-48C7-89F7-9B03D62DC07D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D065840C-D68A-4CBC-B473-93EE0F3E7B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D065840C-D68A-4CBC-B473-93EE0F3E7B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D065840C-D68A-4CBC-B473-93EE0F3E7B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D065840C-D68A-4CBC-B473-93EE0F3E7B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80551C9B-CA35-48C7-89F7-9B03D62DC07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80551C9B-CA35-48C7-89F7-9B03D62DC07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80551C9B-CA35-48C7-89F7-9B03D62DC07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80551C9B-CA35-48C7-89F7-9B03D62DC07D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A12312D3-826C-4372-B0AE-48E522335E5C}
+	EndGlobalSection
+EndGlobal
